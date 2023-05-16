@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:22:52.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="0w0VFhlrq7vBn7wiep55" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:26:24.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="wlzvjBwb6dAPK_0GTT4V" version="21.2.3" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
     <mxGraphModel dx="2461" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,12 +49,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-29" value="&amp;nbsp;Τα δεδομένα στην γεωλογία αλλάζουν αρκετά συχνα.Με αποτέλεσμα να πρέπει να εκτυπώνω κάθε φορα νεους χάρτες που είναι σχεδόν ίδιοι και έχουν πολύ μικρές διαφορές μεταξύ τους.&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="170" y="310" width="320" height="60" as="geometry" />
+          <mxGeometry x="250" y="280" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="exnMLXb53j5eCIuaalZw-29" parent="1" source="exnMLXb53j5eCIuaalZw-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="394" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-31" value="υδρολόγος" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-32" value="υδρολόγος" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="420" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
