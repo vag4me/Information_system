@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:51:13.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="tYgIdT1om5C4x8LA9__W" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:58:39.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="paxYEoOo_0qTz4tU-Ejz" version="21.2.3" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
     <mxGraphModel dx="3697" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
             <mxPoint x="-650" y="147" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exnMLXb53j5eCIuaalZw-58" value="Μέλος&amp;nbsp;διοικητικού συμβουλίου" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="exnMLXb53j5eCIuaalZw-58" value="Υπάλληλος δημοσίων σχέσων" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
