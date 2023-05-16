@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:12:50.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="y184Fa7hjP0YnecS_Vfq" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:25:58.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="V-I-cX9CetpW1wP4boh-" version="21.2.3" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
-    <mxGraphModel dx="3988" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           <mxGeometry x="-690" y="140" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-51" value="Δεν μπορώ να επικοινωνήσω με τον οργανισμό&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-890" y="100" width="170" height="40" as="geometry" />
+          <mxGeometry x="-850" y="55" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="exnMLXb53j5eCIuaalZw-51" parent="1" source="exnMLXb53j5eCIuaalZw-50">
           <mxGeometry relative="1" as="geometry">
@@ -134,8 +134,35 @@
             <mxPoint x="-650" y="147" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exnMLXb53j5eCIuaalZw-57" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="77.5" width="20" height="20" as="geometry" />
+        <mxCell id="exnMLXb53j5eCIuaalZw-58" value="Μέλος&amp;nbsp;διοικητικού συμβουλίου" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="-390" y="60" width="20" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-62" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="exnMLXb53j5eCIuaalZw-60" target="exnMLXb53j5eCIuaalZw-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-60" value="Είμαστε δημόσιος φορέας.Πρέπει να δαπανήσουμε χρήμα ώστε διαφημίσουμε την γεωλογία της χώρας μας" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-990" y="340" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-61" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="exnMLXb53j5eCIuaalZw-60" parent="1" source="exnMLXb53j5eCIuaalZw-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-850" y="387" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-63" value="Πρέπει να ισχυροποιήσουμε το κύρος του οργανισμού μας μέσω της διαφήμισης" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-232" y="170" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-64" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="exnMLXb53j5eCIuaalZw-63" parent="1" source="nEepf2eeYOMH0jUjjnY--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="-510" y="250" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
