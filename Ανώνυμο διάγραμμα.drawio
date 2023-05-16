@@ -1,26 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:49:48.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="XPWk4az2__14ZJwDmBfJ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:06:35.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="ZNi0-TM-FA-hOrBr1RtY" version="21.2.3" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
     <mxGraphModel dx="2461" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nEepf2eeYOMH0jUjjnY--1" value="CEO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="nEepf2eeYOMH0jUjjnY--1" value="CEO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nEepf2eeYOMH0jUjjnY--6" value="Ο οργανισμός εχει παρατήματα σε ολη την Ελλάδα και δεν είναι εύκολο να οργανωθεί μια συνάντηση ολων τον φορέων ταυτόχρονα. Αυτή η αδυναμία συντονισμού μειώνει την αποδοτικότητα μας.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="260" height="80" as="geometry" />
+        <mxCell id="nEepf2eeYOMH0jUjjnY--6" value="Ο οργανισμός εχει παρατήματα σε ολη την Ελλάδα και δεν είναι εύκολο να οργανωθεί μια συνάντηση ολων τον φορέων ταυτόχρονα. Αυτή η αδυναμία συντονισμού μειώνει την αποδοτικότητα μας.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="180" y="40" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nEepf2eeYOMH0jUjjnY--7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="nEepf2eeYOMH0jUjjnY--6" parent="1" source="nEepf2eeYOMH0jUjjnY--1">
+        <mxCell id="nEepf2eeYOMH0jUjjnY--7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nEepf2eeYOMH0jUjjnY--1" target="nEepf2eeYOMH0jUjjnY--6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEepf2eeYOMH0jUjjnY--10" value="Μερικοί πελάτες μου παραπονιουνται οτι δεν μπορουν να βρουν τι χαρτες παρεχει ο οργανισμος και σε τι τιμες, ΠΟλλοι απο αυτους απλως μετα απο λιγο στρεφονται σε αλλους οργανισμους για να παρουν τους χαρτες.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-230" y="60" width="305" height="80" as="geometry" />
+        <mxCell id="nEepf2eeYOMH0jUjjnY--10" value="Μερικοί πελάτες μου παραπονιούνται οτι δεν μπορούν να βρουν τι χάρτες παρέχει ο οργανισμος και σε τι τιμές, Πoλλοι απο αυτούς απλως μετα απο λίγο στρέφονται σε άλλους οργανισμούς για να πάρουν τους χάρτες.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-250" y="50" width="340" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="nEepf2eeYOMH0jUjjnY--11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="nEepf2eeYOMH0jUjjnY--10" parent="1" source="nEepf2eeYOMH0jUjjnY--1">
+        <mxCell id="nEepf2eeYOMH0jUjjnY--11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nEepf2eeYOMH0jUjjnY--1" target="nEepf2eeYOMH0jUjjnY--10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="132" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-4" value="Γεωλόγος" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-7" value="Το σπίτι μου είναι πολύ μακρια από την βιβλιοθήκη του οργανισμού. Πολλές φορες πηγαίνω μέχρι εκεί χωρίς να ξέρω αν έχουν το βιβλίο που ψάχνω για να με βοηθήσει σε κάποιο project. Χάνω πολύ χρόνο για την μετακίνηση και μάλιστα πολλές φορες εχω γυρίσει χωρίς το βιβλίο καθώς η βιβλιοθήκη δεν το είχε.&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="exnMLXb53j5eCIuaalZw-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="exnMLXb53j5eCIuaalZw-7" parent="1" source="exnMLXb53j5eCIuaalZw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
