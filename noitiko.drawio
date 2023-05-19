@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T10:44:45.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="PGuXvgZn02uo2aJ8qguZ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T10:47:00.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="dm3tJ-6OZnCRZ0mYLtnP" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="RnyMKa6uYo8wfqKTMDjT">
     <mxGraphModel dx="1513" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -122,6 +122,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="360" as="sourcePoint" />
             <mxPoint x="1130" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Προσδιορισμός κριτήριων&amp;nbsp;" treeRoot="1" id="7ovYymC-5ZYo1Sts3X1_-42">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="1035" y="140" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7ovYymC-5ZYo1Sts3X1_-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.313;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.358;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7ovYymC-5ZYo1Sts3X1_-42" target="7ovYymC-5ZYo1Sts3X1_-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="220" as="sourcePoint" />
+            <mxPoint x="1040" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
