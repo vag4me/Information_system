@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T06:56:52.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="3o7KG3kLK1rjw23sT3iJ" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T13:24:32.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="U2Cz44VTHW-mEJfOFz6r" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
-    <mxGraphModel dx="3992" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3008" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
         <mxCell id="exnMLXb53j5eCIuaalZw-68" value="Γεωχημικός&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-510" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kxK5nSEk0n1D5yzxA_6w-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.038;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exnMLXb53j5eCIuaalZw-69" target="exnMLXb53j5eCIuaalZw-66">
+        <mxCell id="kxK5nSEk0n1D5yzxA_6w-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.038;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="exnMLXb53j5eCIuaalZw-69" target="exnMLXb53j5eCIuaalZw-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-69" value="Δεν υπάρχει κάποιος συχνά ανανεωμένος χάρτης&amp;nbsp; Δειγματοληψία Ιζημάτων Ρεμάτων" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
@@ -263,8 +263,19 @@
         <mxCell id="iqQoqbMSLfHXyyBvVz2h-10" value="Υποψήφιοι υπάλληλοι&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="918" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kxK5nSEk0n1D5yzxA_6w-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="kxK5nSEk0n1D5yzxA_6w-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="-270" y="542.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NfwObRSC5eIi80Eo-o-1" value="Γενικός διευθυντής&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NfwObRSC5eIi80Eo-o-3" value="Δεν έχω καλή εικόνα σε ποια έργα &lt;br/&gt;δουλεύουν οι υπάλληλοι της &lt;br/&gt;επιχείρησής μου" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="740" y="630" width="240" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="q3NfwObRSC5eIi80Eo-o-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="q3NfwObRSC5eIi80Eo-o-3" parent="1" source="q3NfwObRSC5eIi80Eo-o-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="650" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
