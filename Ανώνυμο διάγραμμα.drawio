@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T07:35:36.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="25J6em4z3CoI_PwSE47B" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T07:50:25.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="uqDpNcEdDYy-NHTyTsZ8" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="0HPzzRoCCEc05kX_OtVX">
     <mxGraphModel dx="3151" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,10 +113,10 @@
           <mxGeometry x="680" y="510" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-50" value="Πελατης" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="190" width="30" height="60" as="geometry" />
+          <mxGeometry x="-590" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-51" value="Δεν μπορώ να επικοινωνήσω με τον οργανισμό&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-660" y="140" width="170" height="40" as="geometry" />
+          <mxGeometry x="-790" y="160" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="exnMLXb53j5eCIuaalZw-50" target="exnMLXb53j5eCIuaalZw-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-53" value="Δεν μπορώ να βρω τους χάρτες που θέλω" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-445" y="130" width="165" height="30" as="geometry" />
+          <mxGeometry x="-610" y="65" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exnMLXb53j5eCIuaalZw-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.364;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="exnMLXb53j5eCIuaalZw-50" target="exnMLXb53j5eCIuaalZw-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -249,6 +249,23 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="650" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ngUUwxpKCyowh9OC1aF2-4" value="Γραμματεία" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ngUUwxpKCyowh9OC1aF2-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.967;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ngUUwxpKCyowh9OC1aF2-5" target="exnMLXb53j5eCIuaalZw-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ngUUwxpKCyowh9OC1aF2-5" value="Τα τηλέφωνα χτυπάνε ολη μέρα και δεν μπορώ να συγκεντρωθώ στα αλλα θέματα της δουλειάς μου" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-415" y="180" width="195" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ngUUwxpKCyowh9OC1aF2-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ngUUwxpKCyowh9OC1aF2-5" parent="1" source="ngUUwxpKCyowh9OC1aF2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-338.7499999999998" y="253" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ngUUwxpKCyowh9OC1aF2-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="-530" y="220" width="32" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
