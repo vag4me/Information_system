@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T10:21:06.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="kLfCcAYC4LfHX2j7gj-5" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T10:26:36.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="ubUes7VM1l1DrJJyBuaT" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="d722_HOSetGY8IbsiXK8">
     <mxGraphModel dx="1608" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -224,6 +224,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="1390" as="sourcePoint" />
             <mxPoint x="1720" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-55" value="Γραμματεία&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1390" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="1440" as="sourcePoint" />
+            <mxPoint x="1140" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-57" value="Απάντηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-57" target="W4YdzC6T8s4nz27xlf9W-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1440" as="sourcePoint" />
+            <mxPoint x="1280" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-61" value="Γραμματεία" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1395" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1.012;exitY=0.696;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1460" as="sourcePoint" />
+            <mxPoint x="1560" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-63" value="Ερώτηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-63" target="W4YdzC6T8s4nz27xlf9W-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="1540" as="sourcePoint" />
+            <mxPoint x="1680" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
