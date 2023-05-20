@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T10:02:55.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="-bs0pskEQopKb_GmEmG0" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T10:03:55.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="hGhf8KLYKXdhn5Q5OQIs" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="d722_HOSetGY8IbsiXK8">
-    <mxGraphModel dx="1118" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,8 +100,14 @@
             <mxPoint x="1560" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4YdzC6T8s4nz27xlf9W-25" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="890" width="60" height="30" as="geometry" />
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-25" value="Είσοδος στην τάξη&lt;br&gt;Μήνυμα λάθους" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.938;exitY=-0.077;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-25" target="W4YdzC6T8s4nz27xlf9W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="920" as="sourcePoint" />
+            <mxPoint x="1760" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
