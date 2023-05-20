@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T11:06:02.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="QvEGjAbS1VPTmO57IMAt" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T11:13:55.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="RaSMWY9342UZ8PP5G4Hq" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="d722_HOSetGY8IbsiXK8">
-    <mxGraphModel dx="2338" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1608" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
             <mxPoint x="1120" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4YdzC6T8s4nz27xlf9W-5" value="Όνομα χάρτη" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-5" value="Όνομα χάρτη&lt;br&gt;Ον.προσθήκη" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1185" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4YdzC6T8s4nz27xlf9W-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W4YdzC6T8s4nz27xlf9W-3">
@@ -52,8 +52,8 @@
             <mxPoint x="1160" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4YdzC6T8s4nz27xlf9W-14" value="&#39;Όνομα Χρήστη&amp;nbsp;&lt;br&gt;Κωδικός&lt;br&gt;Online τάξη" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="870" width="90" height="30" as="geometry" />
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-14" value="&#39;Όνομα Χρήστη&amp;nbsp;&lt;br&gt;Κωδικός&lt;br&gt;Online τάξη&lt;br&gt;Ονομα εγγραφης&lt;br&gt;κωδικος εγγραφης" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="870" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4YdzC6T8s4nz27xlf9W-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.387;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-14" target="W4YdzC6T8s4nz27xlf9W-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -274,8 +274,8 @@
             <mxPoint x="1160" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4YdzC6T8s4nz27xlf9W-68" value="Όνομα&lt;br&gt;Κωδικός&lt;br&gt;έργο" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="1490" width="60" height="30" as="geometry" />
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-68" value="Όνομα&lt;br&gt;Κωδικός&lt;br&gt;έργο&lt;br&gt;όνομα προθήκης" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1490" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4YdzC6T8s4nz27xlf9W-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-68" target="W4YdzC6T8s4nz27xlf9W-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -502,8 +502,8 @@
             <mxPoint x="1580" y="955.9821109123434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4YdzC6T8s4nz27xlf9W-135" value="Εγγραφή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="940.9821109123434" width="60" height="30" as="geometry" />
+        <mxCell id="W4YdzC6T8s4nz27xlf9W-135" value="Ονομα Εγγραφής&lt;br&gt;Κωδικος εγγραφης" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="940.98" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4YdzC6T8s4nz27xlf9W-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4YdzC6T8s4nz27xlf9W-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
