@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T10:13:26.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="uJJRipZAXyjHcqN9YTdY" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T10:20:01.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="QLK1IuhzktVTWejis2Qr" version="21.3.2" type="github">
   <diagram name="Σελίδα-1" id="3amP75kJeSOvBXIbC_eX">
-    <mxGraphModel dx="3215" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pmRhDcLN0mvBYwqN2G9U-1" value="Exec_P1,P2,P3,P4,P5,P6,P7" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="800" y="120" width="2800" height="40" as="geometry" />
+          <mxGeometry x="800" y="120" width="3350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pmRhDcLN0mvBYwqN2G9U-2" value="Get_Όλοι_οι_χάρτες" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="110" height="40" as="geometry" />
@@ -394,6 +394,60 @@
         </mxCell>
         <mxCell id="pmRhDcLN0mvBYwqN2G9U-95" value="Ενημέρωση&lt;br&gt;Δραστηριότητα" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2960" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-96" value="put_ενημέρωση&amp;nbsp;&lt;br&gt;Δραστηριότητα" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.421;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pmRhDcLN0mvBYwqN2G9U-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3060" y="180" as="sourcePoint" />
+            <mxPoint x="3120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3080" y="200" as="sourcePoint" />
+            <mxPoint x="3090" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-99" value="Ενημέρωση&lt;br&gt;Δραστηριότητα" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-100" value="Get_email,ερωτηση" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.454;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pmRhDcLN0mvBYwqN2G9U-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3200" y="180" as="sourcePoint" />
+            <mxPoint x="3270" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pmRhDcLN0mvBYwqN2G9U-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3260" y="230" as="sourcePoint" />
+            <mxPoint x="3230" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-103" value="email&lt;br&gt;ερωτηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-104" value="get_απάντηση" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.41;entryY=-0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pmRhDcLN0mvBYwqN2G9U-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3320" y="180" as="sourcePoint" />
+            <mxPoint x="3370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3350" y="250" as="sourcePoint" />
+            <mxPoint x="3340" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmRhDcLN0mvBYwqN2G9U-107" value="Απάντηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
